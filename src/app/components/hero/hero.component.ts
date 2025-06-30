@@ -26,10 +26,8 @@ import { CommonModule } from "@angular/common"
           <div class="hero-image">
             <div class="profile-card">
               <div class="profile-avatar">
-                <!-- 🟡 استخدم الصورة عند توفرها:
-                <img src="assets/images/profile.jpg" alt="Omar Med Vall" class="avatar-image" />
-                -->
-              <div class="avatar-placeholder">OM</div>
+
+                <img src="assets/images/profile.jpeg" alt="Omar Med Vall" class="avatar-image" />
               </div>
 
               <div class="profile-info">
