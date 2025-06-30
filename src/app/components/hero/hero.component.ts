@@ -27,7 +27,7 @@ import { CommonModule } from "@angular/common"
             <div class="profile-card">
               <div class="profile-avatar">
 
-                <img src="assets/images/profile.jpeg" alt="Omar Med Vall" class="avatar-image" />
+                <img src="/assets/images/profile.jpeg" alt="Omar Med Vall" class="avatar-image" />
               </div>
 
               <div class="profile-info">
